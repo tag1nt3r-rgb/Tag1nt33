@@ -1,0 +1,5 @@
+{
+  "name": "Seven Symbols Puzzle",
+  "description": "A logic puzzle game where you place 7 unique images on a 3x7 grid such that every row contains all images and columns satisfy unique pairing constraints.",
+  "requestFramePermissions": []
+}
